@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '6595'
     url: http://www.gutenberg.org/2009/agents/6595
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40080#A-Pictorial-Booklet-on-Early-Jamestown-Commodities-and-Industries
 gutenberg_issued: '2012-06-25'
 gutenberg_type: Text
 identifiers:
