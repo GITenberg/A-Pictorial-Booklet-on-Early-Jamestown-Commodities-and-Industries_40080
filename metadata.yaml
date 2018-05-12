@@ -1,0 +1,32 @@
+_repo: A-Pictorial-Booklet-on-Early-Jamestown-Commodities-and-Industries_40080
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: King, Sidney E. (Sidney Eugene)
+    alias: King, Sidney Eugene
+    birthdate: 1906
+    deathdate: 2002
+    gutenberg_agent_id: '40349'
+    url: http://www.gutenberg.org/2009/agents/40349
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hudson, J. Paul
+    gutenberg_agent_id: '6595'
+    url: http://www.gutenberg.org/2009/agents/6595
+description: ''
+gutenberg_issued: '2012-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Virginia -- History -- Colonial period, ca. 1600-1775'
+title: A Pictorial Booklet on Early Jamestown Commodities and Industries
+url: http://www.gutenberg.org/ebooks/40080
